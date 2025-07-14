@@ -1,0 +1,4 @@
+# Installation manuelle d’APK – Android
+1. Activer Sources inconnues dans Paramètres > Sécurité
+2. Télécharger l’APK depuis une source fiable
+3. Lancer l’APK depuis le gestionnaire de fichiers

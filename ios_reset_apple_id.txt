@@ -1,0 +1,5 @@
+# Réinitialisation Apple ID – iOS
+1. Ouvrir Réglages > Général > Transférer ou réinitialiser l’iPhone
+2. Choisir « Effacer contenu et réglages »
+3. Entrer l’identifiant Apple pour désactiver iCloud
+4. Reconnecter au compte entreprise ou MDM

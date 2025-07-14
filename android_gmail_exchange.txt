@@ -1,0 +1,5 @@
+# Configuration Gmail Pro – Android
+1. Ouvrir Gmail > Paramètres > Ajouter compte
+2. Choisir Exchange
+3. Entrer identifiants professionnels
+4. Accepter sécurité et synchronisation

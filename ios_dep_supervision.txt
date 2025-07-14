@@ -1,0 +1,4 @@
+# Activer la supervision DEP – iOS
+1. Connecter l’appareil à Apple Configurator (Mac requis)
+2. Définir comme nouvel iPhone, activer supervision + inscription MDM
+3. Restaurer le backup ou configurer en mode entreprise

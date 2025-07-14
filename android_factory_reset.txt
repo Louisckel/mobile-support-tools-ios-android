@@ -1,0 +1,4 @@
+# Réinitialisation usine – Android
+1. Paramètres > Système > Options de réinitialisation
+2. Réinitialiser toutes les données (réinitialisation usine)
+3. Confirmer avec code ou schéma

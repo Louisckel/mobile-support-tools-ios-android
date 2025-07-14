@@ -1,0 +1,4 @@
+# Redémarrage en mode Recovery – iOS
+1. Brancher l’iPhone à un PC ou Mac avec iTunes / Finder
+2. Forcer le redémarrage : appui long sur boutons volume + power selon modèle
+3. Restaurer ou mettre à jour l’appareil

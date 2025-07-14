@@ -1,0 +1,4 @@
+# MFA & Play Protect – Android
+1. Installer Google Authenticator ou autre MFA
+2. Ajouter le compte depuis QR code
+3. Désactiver Play Protect temporairement si nécessaire dans Play Store > Play Protect > Paramètres

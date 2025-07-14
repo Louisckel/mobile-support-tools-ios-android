@@ -1,0 +1,4 @@
+# Forcer l’arrêt et vider cache – Android
+1. Paramètres > Applications > Sélectionner l’application
+2. Forcer l’arrêt
+3. Aller dans Stockage > Vider le cache

@@ -1,0 +1,4 @@
+# Sauvegarde iCloud – iOS
+1. Ouvrir Réglages > nom de l’utilisateur > iCloud > Sauvegarde iCloud
+2. Activer la sauvegarde iCloud
+3. Appuyer sur « Sauvegarder maintenant »

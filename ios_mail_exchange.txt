@@ -1,0 +1,4 @@
+# Configuration Exchange sur Mail – iOS
+1. Réglages > Mail > Comptes > Ajouter un compte > Exchange
+2. Entrer l’adresse email pro et le mot de passe
+3. Entrer manuellement les paramètres si nécessaire (serveur, domaine)
